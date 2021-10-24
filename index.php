@@ -47,7 +47,7 @@
                   <div class="col-md act">
                     <img src="img/history.jpg" class="img-fluid">
                     <br>
-                    <a href="transactionhistory.php"><button>Transaction History</button></a>
+                    <a href="transactionhistory.php"><button>Transaction Historyy</button></a>
                   </div>
             </div>
       </div>
